@@ -212,3 +212,43 @@ body {
     margin: 16px 0px;
     width: 501px;
 }
+
+/* featured-Products Releted Style End*/
+
+/* footer Releted Style */
+.footer {
+    background: black;
+}
+
+.footer{
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.footer-title {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.footer div>p {
+    color: #D9DBE1;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.socal-media-icon i {
+    background: rgb(56, 54, 54);
+    border-radius: 50%;
+    padding: 8px;
+    margin-top: 25px;
+    margin-right: 5px;
+}
+
+.socal-media-icon {
+    color: #FFFFFF;
+    font-size: 24px;
+}
+/* footer Releted Style end */
+
